@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @Riooo
+### Hii... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px](https://telegra.ph/file/2635267eed1cce033d98a.mp4"/>
 
-<!---
-RioooNoCounter/RioooNoCounter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="IMG-20210618-WA0001.jpg](https://telegra.ph/file/63f7db2fc0ab4448860d0.jpg" alt="RioTuru">
+
+### <========== KNOW MORE ABOUT ME ==========>
+
+![](https://visitor-badge.glitch.me/badge?page_id=RioooNoCounter)
+
+<p align="center"><a href="https://github.com/RioooNoCounter"><img title="Student" src="https://github-readme-stats.vercel.app/api?username=RioooNoCounter&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+  </p>
+  
