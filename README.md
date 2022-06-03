@@ -43,7 +43,7 @@ im student
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+    <summary>&#127942 <b>GitHub  Activity</b></summary><br/>
 
 ![Metrics](https://metrics.lecoq.io/RioooNoCounter?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
