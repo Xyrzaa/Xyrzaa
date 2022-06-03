@@ -1,6 +1,16 @@
-### Hii... <img src="https://telegra.ph/file/2635267eed1cce033d98a.mp4" width="25px"/>
+<h1 align="center">Welcome <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px"alt=""><br></h1>
+<p align="center">
+  <img src="https://github.com/RioooNoCounter.png" />
+</p>
 
-<img src="https://telegra.ph/file/63f7db2fc0ab4448860d0.jpg" alt="RioTuru">
+<p align="center">
+  
+- 👤 My name is RioTuru
+- 💌 I am 13 years old 
+- 👨‍💻 I am not programmer
+  
+</p>
+
 
 ### <========== KNOW MORE ABOUT ME ==========>
 
