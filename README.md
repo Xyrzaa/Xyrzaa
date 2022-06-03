@@ -4,7 +4,16 @@
 <p align="center">
   <img src="https://github.com/RioooNoCounter.png" 
        </p>
- </b1></h1>
+ 
+ ```bash
+My name is RioCndraa
+I'm notprogramer
+  
+i'm from indonesian
+  
+i'm student
+```
+  
 <p align="center">
 <a href="https://github.com/RioooNoCounter"><img title="Author" src="https://img.shields.io/badge/Rio-Turu-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
