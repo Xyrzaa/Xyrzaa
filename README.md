@@ -4,14 +4,13 @@
 <p align="center">
   <img src="https://github.com/RioooNoCounter.png" 
        </p>
+ </h1></p1>
  
  ```bash
 My name is RioCndraa
-I'm notprogramer
-  
-i'm from indonesian
-  
-i'm student
+Im notprogramer
+im from indonesian
+im student
 ```
   
 <p align="center">
