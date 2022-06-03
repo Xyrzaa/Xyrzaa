@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/RioooNoCounter"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github;My+Github+is+under+Maintenance" alt="kontol">
+  <a href="https://github.com/RioooNoCounter"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github;My+Github+is+under+Maintenance;Please+waiting+for+13+hours." alt="kontol">
        </p>
 <p align="center">
   <img src="https://github.com/RioooNoCounter.png" 
@@ -7,10 +7,10 @@
  </h1></p1>
  
  ```bash
-My name is RioCndraa
-Im notprogramer
-im from indonesian
-im student
+My name is RioCndraa🥰
+Im notprogramer🤭
+im from indonesian🇲🇨
+im student🤗
 ```
   
 <p align="center">
