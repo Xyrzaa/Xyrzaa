@@ -1,6 +1,6 @@
 ### Hii... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px](https://telegra.ph/file/2635267eed1cce033d98a.mp4"/>
 
-<img src="IMG-20210618-WA0001.jpg](https://telegra.ph/file/63f7db2fc0ab4448860d0.jpg" alt="RioTuru">
+<img src="https://telegra.ph/file/63f7db2fc0ab4448860d0.jpg" alt="RioTuru">
 
 ### <========== KNOW MORE ABOUT ME ==========>
 
