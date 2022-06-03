@@ -43,8 +43,3 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=RioooNoCounter&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RioooNoCounter&theme=vue">
-
-
----------
-<p align="center"><a href="https://github.com/RioooNoCounter"><img title="Student" src="https://github-readme-stats.vercel.app/api?username=RioooNoCounter&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-  </p>
