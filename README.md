@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/RioooNoCounter"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github;My+Github+is+under+Maintenance;Please+waiting+for+13+hours." alt="kontol">
+  <a href="https://github.com/Xyrzaa"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github;My+Github+is+under+Maintenance;Please+waiting+for+13+hours." alt="kontol">
        </p>
 <p align="center">
-  <img src="https://github.com/RioooNoCounter.png" 
+  <img src="https://github.com/Xyrzaa.png" 
        </p>
  </h1></p1>
  
@@ -14,7 +14,7 @@ im student🤗
 ```
   
 <p align="center">
-<a href="https://github.com/RioooNoCounter"><img title="Author" src="https://img.shields.io/badge/Rio-Turu-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Xyrzaa"><img title="Author" src="https://img.shields.io/badge/Rio-Turu-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 ---------
@@ -38,16 +38,16 @@ im student🤗
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=RioooNoCounter)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Xyrzaa)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub  Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/RioooNoCounter?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Xyrzaa?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
     
-![github stats](https://github-readme-stats.vercel.app/api?username=RioooNoCounter&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RioooNoCounter&theme=vue">
+![github stats](https://github-readme-stats.vercel.app/api?username=Xyrzaa&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyrzaa&theme=vue">
