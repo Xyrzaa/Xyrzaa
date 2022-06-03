@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/RioooNoCounter.png" 
+  <a href="https://github.com/RioooNoCounter"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github:My+Github+is+under+Maintenance" alt="kontol">
        </p>
-  <p align="center">
-  <a href="https://github.com/RioooNoCounter"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github" alt="kontol">
+<p align="center">
+  <img src="https://github.com/RioooNoCounter.png" 
        </p>
  </b1></h1>
 <p align="center">
