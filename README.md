@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Xyrzaa"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github;My+Github+is+under+Maintenance;Please+waiting+for+13+hours." alt="kontol">
+  <a href="https://github.com/Xyrzaa"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Wellcome+To+My+Github." alt="kontol">
        </p>
 <p align="center">
   <img src="https://github.com/Xyrzaa.png" 
@@ -7,6 +7,8 @@
  </h1></p1>
  
  ```bash
+.
+
 My name is RioCndraa🥰
 Im notprogramer🤭
 im from indonesian🇲🇨
