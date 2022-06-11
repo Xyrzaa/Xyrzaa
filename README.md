@@ -32,7 +32,7 @@ im student🤗
 
 ## My Bot 🌷
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xyrzaa&repo=riomd-v1&theme=vue)
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Xyrzaa&repo=SymphonyMD&theme=dark)
 ---------
 
 ## ```Status 🐾```
